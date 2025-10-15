@@ -1,0 +1,19 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.Python
+env/
+venv/
+
+# Windows
+AppData/
+Local/Application Data/
+
+# IDE
+.vscode/
+.idea/
+
+# Environment variables
+.env
